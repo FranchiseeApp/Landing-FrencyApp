@@ -6,6 +6,10 @@ Welcome to the landing page repository for Frency, a revolutionary mobile applic
 
 This landing page is dedicated to showcasing the key features, benefits, and information about the Frency app, helping users understand its purpose and functionality.
 
+## Published Website
+
+Explore our published website at [https://frency.site/]
+
 ## Features
 
 - **Franchise Insights:** Discover various franchise opportunities tailored to your interests and market trends.
@@ -31,12 +35,12 @@ This landing page is dedicated to showcasing the key features, benefits, and inf
 
 ## Contributors
 
-- [Your Name](link-to-profile): Developer & Designer
-- [Co-Contributor Name](link-to-profile): Marketing & Content Writer
+- [C256BSY3739](https://github.com/ranggamyd): Rangga Manggala Yudha
+- [C314BSX3807](https://github.com/X5851X): Risfandhiani Triara Putri
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the Frency Franchise Finder Solution.
 
 ---
 
